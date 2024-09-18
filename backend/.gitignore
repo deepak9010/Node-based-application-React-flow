@@ -1,0 +1,8 @@
+# Ignore Python bytecode cache
+__pycache__/
+
+
+# Ignore the entire __pycache__ directory
+**/__pycache__/
+
+myenv
